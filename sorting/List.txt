@@ -1,0 +1,6 @@
+1.Bucket sort
+2.Bubble sort
+3.Insertion sort
+4.Selection sort
+5.Heapsort
+6.Mergesort
